@@ -1,4 +1,4 @@
-markdown
+
 # Simple Interest Calculator
 
 A command-line tool built in Bash that calculates simple interest based on user-provided inputs.
